@@ -5,7 +5,7 @@
 - 📫 How to reach me? E-mail can be the best way.
 
 ```csharp
-Stack<Teck> dawnchan = new Stack<Tech>();
+Stack<Tech> dawnchan = new Stack<Tech>();
 ...
 System.Console.WriteLine($"Say Hello World!\n{dawnchan.ToString()}");
 ```
