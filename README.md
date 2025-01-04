@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dawnchan030920. I'm a student at Wuhan Univ.
-- 👀 I’m interested in .NET, PLT, Software Architecture/Design/Engineer, UI/UX and so on. Pretty sure I haven't lost my passion & curiosity!
-- 📫 How to reach me? E-mail can be the best way.
+- 👀 Interested in PLT, FP and architecture. Also studying more **engineering** stuff like UI/UX and management.
+- 📫 Reach me via the email!
