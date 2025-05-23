@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @dawnchan030920. I'm a student at Wuhan Univ.
 - 👀 Interested in PLT, FP and architecture. Also studying more **engineering** stuff like UI/UX and management.
+- Turning more **theoretical** now.
 - 📫 Reach me via the email!
